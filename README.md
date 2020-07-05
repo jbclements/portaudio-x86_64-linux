@@ -1,2 +1,2 @@
-# portaudio-x86_64-linux
-linux libraries (okay, just the one) for portaudio
+# portaudio-x86_64-macosx
+native libraries for portaudio on the x86_64 Linux platform
